@@ -9,7 +9,7 @@ Este es mi portafolio profesional creado con HTML, CSS y Javascript.
 * [Codepen] (https://codepen.io/devyadid)
 
 ## Ver el ejemplo en vivo
-- ![](https://devyadid.github.io/)
+- ![Portfolio Link](https://devyadid.github.io/)
 
 ![](https://github.com/devyadid/devyadid.github.io/blob/main/assets/projects/projects_portfolio_cover.png)
 
