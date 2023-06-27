@@ -12,7 +12,7 @@ Este es mi portafolio profesional creado con HTML, CSS y Javascript.
 - [devyadid.github.io](https://devyadid.github.io/)
 
 
-![](<a href="https://devyadid.github.io" target="_blank"><img src="https://github.com/devyadid/devyadid.github.io/blob/main/assets/projects/projects_portfolio_cover.png" alt="Yadid Portfolio Cover" /></a>)
+![](https://github.com/devyadid/devyadid.github.io/blob/main/assets/projects/projects_portfolio_cover.png)
 
 ## Contacto
 Si quieres contactarme puedes escribirme a yadidmayerly311@gmail.com
