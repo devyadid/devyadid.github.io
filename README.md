@@ -9,7 +9,7 @@ Este es mi portafolio profesional creado con HTML, CSS y Javascript.
 * [Codepen] (https://codepen.io/devyadid)
 
 ## Ver el ejemplo en vivo
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [devyadid.github.io] (devyadid.github.io)
 
 ## Instalación
 Este proyecto no necesita instalación, abre la carpeta o haz doble click en el .html
